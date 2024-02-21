@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/../../Enterprise/数据备份/数据库/mysql文件/BPMS-2023_12_12_12_01_47-dump.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../../Enterprise/数据备份/数据库/mysql文件/BPMS-2023_12_15_18_27_58-dump.sql" dialect="MySQL" />
+  </component>
+</project>
